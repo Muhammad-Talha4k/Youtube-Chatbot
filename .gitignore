@@ -1,6 +1,8 @@
 __pycache__/
 *.pyc
 *.env
+.dockerignore
+.ipynb
 .venv/
 venv/
 .env
