@@ -296,14 +296,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/Talha4k/youtube-chatbot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Talha4k/youtube-chatbot/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Muhammad-Talha4k/youtube-chatbot/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Muhammad-Talha4k/youtube-chatbot/discussions)
 - **Email**: muhammadtalhasheikh50@gmail.com
 
 
 <div align="center">
 
-**Built with ❤️ by [Muhammad Talha](https://github.com/Talha4k)**
+**Built with ❤️ by [Muhammad Talha](https://github.com/Muhammad-Talha4k)**
 
 ⭐ Star this repo if you find it helpful!
 
