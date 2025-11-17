@@ -10,6 +10,7 @@
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
+- [Project Structure](#-Project_Structure)
 - [Features](#-features)
 - [Demo](#-demo)
 - [Architecture](#-architecture)
@@ -64,9 +65,6 @@ youtube-chatbot/
 - 📊 **Vector Database**: Persistent storage with Qdrant Cloud
 - 🧠 **Multiple LLM Support**: Choose from Mistral & LLaMA
 
-## 🎥 Demo
-
-<!-- Add screenshots or GIF here -->
 
 ```bash
 # Quick start
@@ -126,7 +124,7 @@ streamlit run app.py
 - **[LangChain](https://langchain.com/)** - LLM orchestration framework
 - **[OpenRouter](https://openrouter.ai/)** - Unified LLM API gateway
 - **[HuggingFace](https://huggingface.co/)** - Multilingual embeddings API
-- **[Qdrant](https://qdrant.tech/)** - Vector database for semantic search
+- **[Qdrant](https://qdrant.tech/)** - Vector database for Maximal Marginal Relevance Retrieval (MMR)
 
 ### Core Libraries
 - **youtube-transcript-api** - YouTube transcript extraction
@@ -138,7 +136,7 @@ streamlit run app.py
 
 - Python 3.10 or higher
 - pip or conda package manager
-- API keys (see [API Keys Setup](#-api-keys-setup))
+- API keys (see Configuration Options)
 
 ## 🚀 Installation
 
@@ -283,14 +281,14 @@ git push origin feature/amazing-feature
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
 ### Technologies
 - [Streamlit](https://streamlit.io/) - For the amazing web framework
 - [LangChain](https://langchain.com/) - For LLM orchestration
-- [OpenRouter](https://openrouter.ai/) - For unified LLM access
+- [OpenRouter](https://openrouter.ai/) - For unified Multiple LLM access
 - [Qdrant](https://qdrant.tech/) - For vector database
 - [HuggingFace](https://huggingface.co/) - For embeddings API
 
