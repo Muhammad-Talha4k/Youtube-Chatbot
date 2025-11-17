@@ -1,0 +1,15 @@
+# Ignore files and directories not needed for the Docker image build
+
+__pycache__/
+*.pyc
+*.env
+.README.md
+.ipynb
+.gitignore
+.github/
+.venv/
+venv/
+.env
+*.log
+.idea/
+.vscode/
